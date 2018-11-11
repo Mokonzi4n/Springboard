@@ -1,2 +1,2 @@
-# Git_for_Springboard
+# Springboard
 Repository for all my Springboard Projects
